@@ -192,7 +192,7 @@ ChatGPT资料汇总学习，国内开源镜像，各种开源项目，持续更�
 
 <a href="https://github.com/Andy0619/ChatGPT_Community/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Andy0619/ChatGPT_Community" />
-  <img src="https://contrib.rocks/image?repo=578660638 小蟒蛇/ChatGPT_Community" />
+  <img src="https://contrib.rocks/image?repo=578660638/ChatGPT_Community" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
