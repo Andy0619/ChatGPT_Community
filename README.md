@@ -158,6 +158,10 @@ ChatGPT资料汇总学习，国内开源镜像，各种开源项目，持续更�
 【快捷指令】[让生产力加倍的 ChatGPT 快捷指令](https://ai.newzone.top/)
 
 【GitHub】[chatGPT 机器人/一款支持各种主流语言模型的聊天机器人！](https://github.com/lss233/chatgpt-mirai-qq-bot)
+ 
+【代码转换】(https://ai-code-translator.vercel.app/?utm_source=www.therundown.ai&utm_medium=referral&utm_campaign=u-s-president-addresses-ai-dangers）
+
+【chatbot-ui】(https://github.com/mckaywrigley/chatbot-ui)
 
 ## 效率工具
 
