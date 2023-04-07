@@ -159,7 +159,12 @@ ChatGPT资料汇总学习，国内开源镜像，各种开源项目，持续更�
 
 【GitHub】[chatGPT 机器人/一款支持各种主流语言模型的聊天机器人！](https://github.com/lss233/chatgpt-mirai-qq-bot)
 
-【优秀作品】【McKay Wrigley以其快速构建AI应用而著名，他的项目作品包括:（https://ai-code-translator.vercel.app/?utm_source=www.therundown.ai&utm_medium=referral&utm_campaign=u-s-president-addresses-ai-dangers）（https://twitter.com/mckaywrigley/status/1640414764852711425?s=46&t=J5tuuFL7Z3qsWetu4lBIXg）（https://github.com/mckaywrigley/chatbot-ui）】
+【优秀作品】[McKay Wrigley以其快速构建AI应用而著名，他的项目作品包括:]     
+[代码转换] (https://ai-code-translator.vercel.app/?utm_source=www.therundown.ai&utm_medium=referral&utm_campaign=u-s-president-addresses-ai-dangers）
+
+[twitter说明]（https://twitter.com/mckaywrigley/status/1640414764852711425?s=46&t=J5tuuFL7Z3qsWetu4lBIXg)
+
+[chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 
 ## 效率工具
 【工具集合】[500+ AI 工具导航](https://ai-bot.cn/)
@@ -192,7 +197,6 @@ ChatGPT资料汇总学习，国内开源镜像，各种开源项目，持续更�
 
 <a href="https://github.com/Andy0619/ChatGPT_Community/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Andy0619/ChatGPT_Community" />
-  <img src="https://contrib.rocks/image?repo=578660638/ChatGPT_Community" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
